@@ -1,2 +1,2 @@
-# YaheeComponents
+# eslint-husky-pre-commit
 
